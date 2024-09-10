@@ -1,0 +1,65 @@
+track_name_raw,track_name_clean
+Piano,piano
+Voice,voice
+Voice (cutaway stave),voice
+Grand Piano,piano
+Oboe,other
+Soprano,voice
+Alto,other
+Viola,voice
+Bass,voice
+Part_1,other
+Pianoforte,piano
+Singstimme Voice,voice
+Hautbois,other
+"Singstimme
+Voice",voice
+Tenor,voice
+Classical Guitar,other
+Violoncelle,other
+Voice - cutaway stave,voice
+Harpsichord,other
+Flute,other
+Voice (cutaway),voice
+PIANO,piano
+chant,voice
+Chant,voice
+Voice - verse 1,voice
+Voice - verse 2,voice
+Voix,voice
+Voice - Alto,voice
+Voice - Soprano,voice
+Voice (verse 2),voice
+Voice (verse 3),voice
+Violoncello,other
+Soprano 1,voice
+Soprano 2,voice
+Voice (cutaway alternative),voice
+Voice (cutaway sections),voice
+Women,voice
+Men,voice
+Voice 2,voice
+Voice 1,voice
+Voice 3,voice
+Piano original upper clef,piano
+Violin,other
+Cembalo,other
+Bass II,voice
+Soprano II (cutaway stave),voice
+Tenor II,voice
+Tenor I,voice
+Bass I,voice
+Soprano II,voice
+Soprano I,voice
+Men - Bass 1,voice
+Women - Contralto,voice
+Men - Bass 2,voice
+Women - Soprano 1,voice
+Women - Soprano 2,voice
+Men - Tenor,voice
+Soprani II,voice
+Singstimme,voice
+PIano,piano
+"Chant
+Voice",voice
+Guitar,other

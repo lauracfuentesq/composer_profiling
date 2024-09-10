@@ -1,0 +1,108 @@
+composer_name,true_composer_gender,total_predictions,female_rank_majority_vote,female_rank_avg_proba,%_scores_predicted_female,%_scores_predicted_male,majority_vote_label,average_male_proba,average_female_proba,avg_probabilities_label
+Helen Hopekirk,Female,1,0,15,1.0,0.0,Predicted Female,0.09417811036109924,0.9058218598365784,Predicted Female
+Elizabeth Philp,Female,2,1,11,1.0,0.0,Predicted Female,0.018687121744733304,0.9813128709793091,Predicted Female
+William Shield,Male,1,2,0,1.0,0.0,Predicted Female,9.175482205137087e-07,0.9999990463256836,Predicted Female
+Jane Bianchi,Female,1,3,3,1.0,0.0,Predicted Female,0.0001895604800665751,0.999810516834259,Predicted Female
+Charlotte Alington Barnard,Female,5,4,12,1.0,0.0,Predicted Female,0.02810924115619855,0.9718907475471497,Predicted Female
+Henry Bishop,Male,2,5,8,1.0,0.0,Predicted Female,0.011715749511495233,0.9882842600345612,Predicted Female
+Scott Joplin,Male,1,6,6,1.0,0.0,Predicted Female,0.0021550920791924,0.997844934463501,Predicted Female
+Ann Mounsey,Female,7,7,16,1.0,0.0,Predicted Female,0.09422615870633828,0.9057738610676357,Predicted Female
+Louisa Gray,Female,7,8,22,1.0,0.0,Predicted Female,0.22587367652782372,0.7741263168198722,Predicted Female
+Elizabeth Phillips,Female,1,9,18,1.0,0.0,Predicted Female,0.13111568987369537,0.8688843250274658,Predicted Female
+Elisabetta de Gambarini,Female,1,10,1,1.0,0.0,Predicted Female,5.6725697504589334e-05,0.9999432563781738,Predicted Female
+Ethel Smyth,Female,1,11,5,1.0,0.0,Predicted Female,0.0015821718843653798,0.998417854309082,Predicted Female
+Ellen Dickson,Female,4,12,19,1.0,0.0,Predicted Female,0.13248803094029427,0.8675120025873184,Predicted Female
+Poldowski,Female,3,13,14,1.0,0.0,Predicted Female,0.07269088209917147,0.9273090759913126,Predicted Female
+Joseph Barnby,Male,2,14,13,1.0,0.0,Predicted Female,0.07116955670062453,0.928830474615097,Predicted Female
+Pauline Duchambge,Female,4,15,10,1.0,0.0,Predicted Female,0.0158668847871013,0.9841331094503403,Predicted Female
+Faustina Hasse Hodges,Female,1,16,4,1.0,0.0,Predicted Female,0.0006235347827896476,0.9993764758110046,Predicted Female
+Harriett Abrams,Female,2,17,7,1.0,0.0,Predicted Female,0.01037874654866755,0.9896212518215179,Predicted Female
+Ethel Barns,Female,1,18,9,1.0,0.0,Predicted Female,0.014603239484131336,0.9853968024253845,Predicted Female
+Loïsa Puget,Female,3,19,21,1.0,0.0,Predicted Female,0.20344566577114165,0.7965543468793234,Predicted Female
+Liliʻuokalani,Female,1,20,45,1.0,0.0,Predicted Female,0.4130183756351471,0.5869815945625305,Predicted Female
+Louise Farrenc,Female,1,21,2,1.0,0.0,Predicted Female,0.00016094770398922265,0.9998390674591064,Predicted Female
+Florence Ashton Marshall,Female,2,22,42,1.0,0.0,Predicted Female,0.39150410890579224,0.6084958910942078,Predicted Female
+Emilie Zumsteeg,Female,11,23,17,0.91,0.08999999999999997,Predicted Female,0.11108531419780444,0.888914707032117,Predicted Female
+Luise Greger,Female,9,24,20,0.89,0.10999999999999999,Predicted Female,0.14712300317452037,0.8528769968284501,Predicted Female
+Walford Davies,Male,8,25,37,0.75,0.25,Predicted Female,0.3772133773891255,0.6227866325643845,Predicted Female
+Amy Elsie Horrocks,Female,4,26,23,0.75,0.25,Predicted Female,0.2664527539163828,0.7335472479462624,Predicted Female
+Virginia Gabriel,Female,4,27,25,0.75,0.25,Predicted Female,0.2897414725739509,0.7102585062384605,Predicted Female
+Mathilde Kralik,Female,18,28,31,0.72,0.28,Predicted Female,0.3295569952677195,0.6704430061411889,Predicted Female
+Laura Netzel,Female,7,29,39,0.71,0.29000000000000004,Predicted Female,0.39059154873497653,0.6094084467206683,Predicted Female
+Luise Adolpha Le Beau,Female,7,30,27,0.71,0.29000000000000004,Predicted Female,0.2923090134930578,0.7076909861394337,Predicted Female
+Ludwig van Beethoven,Male,14,31,38,0.71,0.29000000000000004,Predicted Female,0.38375784793918555,0.6162421647459269,Predicted Female
+Charles Villiers Stanford,Male,17,32,29,0.71,0.29000000000000004,Predicted Female,0.31673282640986145,0.6832671717137975,Predicted Female
+Cécile Chaminade,Female,31,33,26,0.71,0.29000000000000004,Predicted Female,0.2908101656788594,0.709189839961548,Predicted Female
+Clémence de Grandval,Female,13,34,28,0.69,0.31000000000000005,Predicted Female,0.31029391243086696,0.6897060787126136,Predicted Female
+Emilie Mayer,Female,6,35,33,0.67,0.32999999999999996,Predicted Female,0.34213036341437447,0.6578696314245462,Predicted Female
+Frederick Delius,Male,6,36,30,0.67,0.32999999999999996,Predicted Female,0.31700556275124353,0.6829944206401706,Predicted Female
+Frederic Hymen Cowen,Male,3,37,24,0.67,0.32999999999999996,Predicted Female,0.28753365902230144,0.7124663442373276,Predicted Female
+Emmanuel Chabrier,Male,3,38,32,0.67,0.32999999999999996,Predicted Female,0.33343829202931374,0.6665616892278194,Predicted Female
+Hugo Wolf,Male,22,39,46,0.64,0.36,Predicted Female,0.4141845825308172,0.5858154119070904,Predicted Female
+Erik Satie,Male,11,40,34,0.64,0.36,Predicted Female,0.3475945203145701,0.652405481446873,Predicted Female
+Hubert Parry,Male,8,41,52,0.62,0.38,Predicted Female,0.4611517145531252,0.5388482976704836,Predicted Female
+Amelia Lehmann,Female,5,42,35,0.6,0.4,Predicted Female,0.3596383022144437,0.6403617218136788,Predicted Female
+Richard Wagner,Male,5,43,43,0.6,0.4,Predicted Female,0.4077559523284435,0.5922440528869629,Predicted Female
+Gabriel Fauré,Male,12,44,53,0.58,0.42000000000000004,Predicted Female,0.4807178571378851,0.519282146381253,Predicted Female
+Felix Mendelssohn,Male,12,45,48,0.58,0.42000000000000004,Predicted Female,0.4387009968049824,0.5612989927855475,Predicted Female
+Fanny Mendelssohn,Female,35,46,41,0.57,0.43000000000000005,Predicted Female,0.3914343461835093,0.6085656480435686,Predicted Female
+Louise Reichardt,Female,40,47,50,0.55,0.44999999999999996,Predicted Female,0.4537804596875503,0.5462195459987556,Predicted Female
+Johanna Kinkel,Female,40,48,57,0.55,0.44999999999999996,Predicted Female,0.502740290316433,0.49725970884101117,Predicted Male
+Clara Wieck,Female,17,49,62,0.53,0.47,Predicted Female,0.5228503917836967,0.4771496123250793,Predicted Male
+Pauline Viardot,Female,21,50,51,0.52,0.48,Predicted Female,0.4571407244407705,0.5428592807480267,Predicted Female
+Amy Beach,Female,10,51,64,0.5,0.5,Predicted Female,0.5271724366350099,0.4728275660367217,Predicted Male
+Harry T. Burleigh,Male,8,52,74,0.5,0.5,Predicted Female,0.5586212556809187,0.44137873902218416,Predicted Male
+Jane Bingham Abbott,Female,2,53,44,0.5,0.5,Predicted Female,0.4102481890004128,0.5897518619894981,Predicted Female
+Arthur Sullivan,Male,2,54,84,0.5,0.5,Predicted Female,0.6393082588911057,0.3606917391589377,Predicted Male
+Helena Munktell,Female,12,55,67,0.5,0.5,Predicted Female,0.5388598890373638,0.4611400902093514,Predicted Male
+Alexander Mackenzie,Male,8,56,47,0.5,0.5,Predicted Female,0.43271942762658,0.5672805923968554,Predicted Female
+Maria Lindsay,Female,2,57,36,0.5,0.5,Predicted Female,0.3601212836802006,0.6398787647485733,Predicted Female
+Gabrielle Ferrari,Female,2,58,49,0.5,0.5,Predicted Female,0.45267731323838234,0.5473226830363274,Predicted Female
+Maude Valerie White,Female,6,59,63,0.5,0.5,Predicted Female,0.5236510494723916,0.4763489398173988,Predicted Male
+Jane Mary Guest,Female,2,60,79,0.5,0.5,Predicted Female,0.6005819514393806,0.39941807254217565,Predicted Male
+Maria Theresia von Paradis,Female,12,61,61,0.5,0.5,Predicted Female,0.5213999302747349,0.4786000767101844,Predicted Male
+Sophie Gail,Female,2,62,93,0.5,0.5,Predicted Female,0.6827612668275833,0.3172387257218361,Predicted Male
+Mélanie Bonis,Female,2,63,56,0.5,0.5,Predicted Female,0.49940926500130445,0.5005906778387725,Predicted Female
+Robert Franz,Male,40,64,66,0.48,0.52,Predicted Male,0.5310180263302755,0.46898198339622466,Predicted Male
+Augusta Holmès,Female,40,65,58,0.48,0.52,Predicted Male,0.5082053180143703,0.49179468670045023,Predicted Male
+Clara Mathilda Faisst,Female,27,66,65,0.48,0.52,Predicted Male,0.5279971685053574,0.4720028301321522,Predicted Male
+Liza Lehmann,Female,29,67,68,0.45,0.55,Predicted Male,0.5415504312282666,0.45844957175719087,Predicted Male
+Gustav Mahler,Male,9,68,72,0.44,0.56,Predicted Male,0.5531082215408484,0.446891770458832,Predicted Male
+Frank Bridge,Male,9,69,59,0.44,0.56,Predicted Male,0.5084113808245294,0.4915886328057645,Predicted Male
+Guy d'Hardelot,Female,9,70,60,0.44,0.56,Predicted Male,0.5176041095465835,0.4823958991457605,Predicted Male
+"Sir Harold Boulton, 2nd Baronet",Male,12,71,81,0.42,0.5800000000000001,Predicted Male,0.6138822520499616,0.3861177575890906,Predicted Male
+Chiquinha Gonzaga,Female,12,72,77,0.42,0.5800000000000001,Predicted Male,0.5965687973227128,0.4034312059520744,Predicted Male
+George Butterworth,Male,12,73,71,0.42,0.5800000000000001,Predicted Male,0.5509550916807106,0.4490449211249749,Predicted Male
+Josephine Lang,Female,40,74,70,0.42,0.5800000000000001,Predicted Male,0.5481558484475499,0.4518441580188437,Predicted Male
+Peter Cornelius,Male,33,75,76,0.42,0.5800000000000001,Predicted Male,0.571571597870645,0.42842840214319894,Predicted Male
+Ernest Chausson,Male,12,76,85,0.42,0.5800000000000001,Predicted Male,0.6441339264468601,0.35586606322840453,Predicted Male
+Peter Warlock,Male,22,77,73,0.41,0.5900000000000001,Predicted Male,0.5537683962082321,0.4462316090410406,Predicted Male
+Carrie Jacobs-Bond,Female,5,78,54,0.4,0.6,Predicted Male,0.4871460251320968,0.5128539733588695,Predicted Female
+Arthur Somervell,Male,10,79,69,0.4,0.6,Predicted Male,0.5419452592264861,0.4580547375488095,Predicted Male
+Anton Webern,Male,10,80,78,0.4,0.6,Predicted Male,0.599857755121775,0.400142250864883,Predicted Male
+Samuel Coleridge-Taylor,Male,8,81,82,0.38,0.62,Predicted Male,0.6303672029171139,0.3696327859070152,Predicted Male
+Marie Jaëll,Female,17,82,87,0.35,0.65,Predicted Male,0.6536058779353934,0.34639412452674256,Predicted Male
+Augusta Browne,Female,3,83,40,0.33,0.6699999999999999,Predicted Male,0.39105302343765896,0.6089469492435455,Predicted Female
+Edward German,Male,3,84,55,0.33,0.6699999999999999,Predicted Male,0.49512984976172447,0.5048701663812002,Predicted Female
+Charles Gounod,Male,6,85,75,0.33,0.6699999999999999,Predicted Male,0.566999995149672,0.4330000039190054,Predicted Male
+Ivor Gurney,Male,6,86,88,0.33,0.6699999999999999,Predicted Male,0.6553689285647124,0.3446310882688787,Predicted Male
+Lili Boulanger,Female,16,87,92,0.31,0.69,Predicted Male,0.6769811970152659,0.32301880928571336,Predicted Male
+Johannes Brahms,Male,40,88,89,0.3,0.7,Predicted Male,0.6659221274925358,0.33407786749470075,Predicted Male
+Joseph Haydn,Male,10,89,80,0.3,0.7,Predicted Male,0.6110704787075519,0.3889295255066827,Predicted Male
+Franz Schubert,Male,40,90,90,0.3,0.7,Predicted Male,0.6684324629430194,0.33156753095765906,Predicted Male
+Corona Schröter,Female,25,91,97,0.28,0.72,Predicted Male,0.7283385045081378,0.2716615009435918,Predicted Male
+Georges Bizet,Male,26,92,94,0.27,0.73,Predicted Male,0.6980690846953971,0.30193091440528863,Predicted Male
+Claude Debussy,Male,16,93,100,0.25,0.75,Predicted Male,0.7722608015174046,0.2277392173393764,Predicted Male
+Evelyn Faltis,Female,4,94,101,0.25,0.75,Predicted Male,0.8229615986347198,0.1770383766015584,Predicted Male
+Robert Schumann,Male,40,95,95,0.25,0.75,Predicted Male,0.707047330931573,0.2929526672474367,Predicted Male
+Richard Strauss,Male,4,96,91,0.25,0.75,Predicted Male,0.674774281156715,0.32522570935543627,Predicted Male
+Walter Parratt,Male,13,97,83,0.23,0.77,Predicted Male,0.638270885253755,0.3617291114328859,Predicted Male
+Edward Elgar,Male,10,98,98,0.2,0.8,Predicted Male,0.7308803558349609,0.26911965318140574,Predicted Male
+Granville Bantock,Male,5,99,99,0.2,0.8,Predicted Male,0.7396078251302243,0.26039218878140674,Predicted Male
+Cyril Rootham,Male,1,100,86,0.0,1.0,Predicted Male,0.6507978439331055,0.34920215606689453,Predicted Male
+Alice Tegnér,Female,2,101,102,0.0,1.0,Predicted Male,0.9473694562911987,0.05263056233525276,Predicted Male
+Frederick Corder,Male,1,102,104,0.0,1.0,Predicted Male,0.9955982565879822,0.004401807207614183,Predicted Male
+Alfred Cellier,Male,1,103,103,0.0,1.0,Predicted Male,0.9922389984130859,0.007760925218462944,Predicted Male
+Eleanor Everest Freer,Female,2,104,106,0.0,1.0,Predicted Male,0.9994239807128906,0.0005759909671545493,Predicted Male
+Charles Wood,Male,1,105,105,0.0,1.0,Predicted Male,0.9987695813179016,0.0012303389376029372,Predicted Male
+Pauline-Marie-Elisa Thys,Female,1,106,96,0.0,1.0,Predicted Male,0.7230941653251648,0.27690589427948,Predicted Male
